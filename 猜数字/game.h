@@ -4,6 +4,7 @@
 #include<time.h>
 #include<stdlib.h>
 
+
 int chess_full(char chessBoard[3][3]);//ÆåÅÌÅĞÂúº¯Êı
 void init(char chessBoard[3][3]);//ÆåÅÌ³õÊÔ»¯º¯Êı
 void distchessBoard(char chessBoard[3][3]);//´òÓ¡ÆåÅÌº¯Êı

@@ -1,7 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include"game.h"
 
-
 int chess_full(char chessBoard[3][3])//ÆåÅÌÅĞÂúº¯Êı
 {
 	int i = 0;
