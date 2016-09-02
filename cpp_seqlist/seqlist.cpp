@@ -1,6 +1,5 @@
 #include"seqlist.h"
 
-
 void SeqList:: CheckCapacity(int count)
 {
 	if (m_sz + count > m_capacity)//À©ÈÝ
