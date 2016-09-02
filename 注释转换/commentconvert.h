@@ -1,4 +1,5 @@
 //commentconvert.h
+
 #ifndef  __COMMENTCOVERT_H__
 #define  __COMMENTCOVERT_H__
 #define INPUTNAME "input.c"

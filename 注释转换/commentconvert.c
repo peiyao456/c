@@ -1,4 +1,5 @@
 //commentconvert.c
+
 #include"commentconvert.h"
 enum STATE state = NUL_STATE;
 void commentcovert(FILE *pfRead, FILE *pfWrite)
