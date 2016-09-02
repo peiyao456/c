@@ -1,6 +1,7 @@
 #ifndef __SEQLIST_H__
 #define __SEQLIST_H__
 
+
 #include<iostream>
 #include<cassert>
 using namespace std;

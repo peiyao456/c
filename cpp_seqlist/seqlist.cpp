@@ -17,6 +17,7 @@ void SeqList:: CheckCapacity(int count)
 	}
 }
 
+
 ostream& operator<<(ostream& os, const SeqList &l)
 {
 	int i = 0;

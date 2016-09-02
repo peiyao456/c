@@ -1,4 +1,5 @@
 #include"seqlist.h"
+
 void test1()
 {
 	DataType data[] = { 1,2,3,4,5,3 };
