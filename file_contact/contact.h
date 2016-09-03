@@ -5,6 +5,7 @@
 #define TELE_MAX 12
 #define ADDR_MAX 20
 #define INC_CAP  2
+
 enum OP
 {
 	EXIT,
