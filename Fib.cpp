@@ -22,7 +22,7 @@ unsigned long long Fib2(long long n)
 	}
 	return array[n];
 }
-//斐波那契非递归实现（空间复杂度0（N））
+//斐波那契非递归实现（空间复杂度0（1））
 unsigned long long Fib3(long long n)
 {
 	assert(n >= 0);
