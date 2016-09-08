@@ -17,6 +17,7 @@ void menu()
 	printf("-------11.折半查找---------------\n");
 	printf("-------12.删除指定位置-----------\n");
 }
+
 void test()
 {
 	SeqList seq;

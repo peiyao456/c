@@ -21,6 +21,7 @@ enum OP
 	BINARYSEARCH,
 	ERASE
 };
+
 #define DEFAULT_SIZE 3
 typedef int DataType;
 typedef struct Seqlist

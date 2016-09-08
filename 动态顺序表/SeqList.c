@@ -19,6 +19,7 @@ void check_capacity(pSeqList pSeq)
 		}
 	}
 }
+
 void InitSeqList(pSeqList pSeq)
 {
 	assert(pSeq);
